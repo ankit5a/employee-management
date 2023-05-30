@@ -21,6 +21,14 @@ The Employee Management System is a web application built using Angular, Spring 
 - Java Development Kit (JDK): Install JDK to run the Spring Boot application.
 - MySQL Database: Set up a MySQL database to store employee data. Update the database configuration in the Spring Boot application accordingly.
 
+## Demo
+
+![Screenshot (518)](https://github.com/ankit5a/employee-management/assets/82325321/f2388d36-0613-4adb-a61f-286c2b6c731b)
+
+![Screenshot (520)](https://github.com/ankit5a/employee-management/assets/82325321/31efe6a9-849c-4145-8e32-641ab16bed69)
+
+![Screenshot (519)](https://github.com/ankit5a/employee-management/assets/82325321/18c8b8ef-3d36-4bff-bacc-fa5f2bafe8e9)
+
 ## Getting Started
 
 ### Frontend (Angular)
